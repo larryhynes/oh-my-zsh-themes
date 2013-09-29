@@ -1,4 +1,4 @@
-oh-my-zsh-themes
+<o></o>h-my-zsh-themes
 ================
 
 Images to make your theme choice easier.
@@ -21,6 +21,8 @@ Images are from iTerm2 on OSX using the [Solarized](https://github.com/altercati
 
 ## agnoster
 ![](./images/agnoster.png)
+
+Despite my best efforts I can't get the patched fonts for vim-powerline to work correctly with agnoster, so it is not showing the correct symbols here. Apologies.
 
 ## alanpeabody
 ![](./images/alanpeabody.png)
