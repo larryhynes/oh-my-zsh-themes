@@ -1,4 +1,4 @@
-<o></o>h-my-zsh-themes
+oh-my-zsh-themes
 ================
 
 Images to make your theme choice easier.
