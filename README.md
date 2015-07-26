@@ -3,9 +3,9 @@ oh-my-zsh-themes
 
 Images to make your theme choice easier.
 
-Up to date as of 29 Sept. 2013, you can view examples of all the themes currently available for the very lovely [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh). I had no part in the creation of any of these themes, I'm just presenting them here for reference if you want to see what's available to you.
+Mostly up to date as of 26 July 2015, you can view examples of all the themes currently available for the very lovely [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh). I had no part in the creation of any of these themes, I'm just presenting them here for reference if you want to see what's available to you.
 
-Images are from iTerm2 on OSX using the [Solarized](https://github.com/altercation/solarized) dark colour scheme.
+Images are from iTerm2 on OSX using the [Solarized](https://github.com/altercation/solarized) dark colour scheme. Newer images are from an old PowerBook running 10.5.8 so may not look their best. (I'm not running oh-my-zsh on my main machine any more.) I could not get decent screenshots of the `linuxonly`, `macovsky-ruby`, `mira`, `peepcode` or `pure` themes. You can have a look at them on the [zsh wiki](https://github.com/robbyrussell/oh-my-zsh/wiki/themes) I imagine.
 
 ## 3den
 ![](./images/3den.png)
@@ -27,6 +27,9 @@ Despite my best efforts I can't get the patched fonts for vim-powerline to work 
 ## alanpeabody
 ![](./images/alanpeabody.png)
 
+## amuse
+![](./images/amuse.png)
+
 ## apple
 ![](./images/apple.png)
 
@@ -47,6 +50,9 @@ Despite my best efforts I can't get the patched fonts for vim-powerline to work 
 
 ## blinks
 ![](./images/blinks.png)
+
+## bureau
+![](./images/bureau.png)
 
 ## candy-kingdom
 ![](./images/candy-kingdom.png)
@@ -243,6 +249,9 @@ Despite my best efforts I can't get the patched fonts for vim-powerline to work 
 ## mgutz
 ![](./images/mgutz.png)
 
+## mira
+![](./images/mira.png)
+
 ## mh
 ![](./images/mh.png)
 
@@ -354,7 +363,7 @@ Despite my best efforts I can't get the patched fonts for vim-powerline to work 
 ## suvash
 ![](./images/suvash.png)
 
-##  takashiyoshida
+## takashiyoshida
 ![](./images/takashiyoshida.png)
 
 ## terminalparty
@@ -362,6 +371,9 @@ Despite my best efforts I can't get the patched fonts for vim-powerline to work 
 
 ## theunraveler
 ![](./images/theunraveler.png)
+
+## tides
+![](./images/tides.png)
 
 ## tjkirch_mod
 ![](./images/tjkirch_mod.png)
