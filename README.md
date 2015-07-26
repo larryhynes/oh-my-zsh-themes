@@ -342,6 +342,9 @@ Despite my best efforts I can't get the patched fonts for vim-powerline to work 
 ## Soliah
 ![](./images/Soliah.png)
 
+## sonicradish
+![](./images/sonicradish.png)
+
 ## sorin
 ![](./images/sorin.png)
 
@@ -350,6 +353,9 @@ Despite my best efforts I can't get the patched fonts for vim-powerline to work 
 
 ## steeef
 ![](./images/steeef.png)
+
+## strug
+![](./images/strug.png)
 
 ## sunaku
 ![](./images/sunaku.png)
